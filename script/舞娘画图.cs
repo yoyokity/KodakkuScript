@@ -6,7 +6,7 @@ using ECommons.DalamudServices;
 using ECommons.ExcelServices;
 using ECommons.GameHelpers;
 
-namespace YoyoScriptNamespace;
+namespace DNCScriptNamespace;
 
 [ScriptType(name: "舞娘技能范围",
     note: "舞娘自身技能基础范围提示：\n" +
@@ -16,7 +16,7 @@ namespace YoyoScriptNamespace;
           "即兴表演：8米治疗范围\n" +
           "前冲步位置：进入战斗后在落点位置永久显示一个小圆圈",
     territorys: [], guid: "2e3e02fd-7504-b11a-9cdb-fb4f58249158",
-    version: "0.0.1",
+    version: "0.0.2",
     author: "yoyokity")]
 public class 舞娘技能范围
 {
