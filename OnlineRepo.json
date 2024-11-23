@@ -1,9 +1,18 @@
 [
-{
+  {
     "Name": "舞娘画图",
     "Guid": "2e3e02fd-7504-b11a-9cdb-fb4f58249158",
     "Version": "0.0.2",
     "Author": "yoyokity",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://raw.githubusercontent.com/yoyokity/KodakkuScript/refs/heads/master/script/%E8%88%9E%E5%A8%98%E7%94%BB%E5%9B%BE.cs",
     "UpdateInfo": ""
-},{}]
+  },
+  {
+    "Name": "基础画图",
+    "Guid": "cbf3972f-08ec-c9b2-a299-8ad81c9f7db3",
+    "Version": "0.0.1",
+    "Author": "yoyokity",
+    "DownloadUrl": "https://raw.githubusercontent.com/yoyokity/KodakkuScript/refs/heads/master/script/%E5%9F%BA%E7%A1%80%E7%94%BB%E5%9B%BE.cs",
+    "UpdateInfo": ""
+  }
+]
