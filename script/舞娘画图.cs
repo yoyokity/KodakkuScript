@@ -10,7 +10,7 @@ using ECommons.ExcelServices;
 using ECommons.GameHelpers;
 using ECommons.Logging;
 
-namespace MyScriptNamespace
+namespace YoyoScriptNamespace
 {
     [ScriptType(name: "舞娘技能范围",
         note: "舞娘自身技能基础范围提示：\n" +
